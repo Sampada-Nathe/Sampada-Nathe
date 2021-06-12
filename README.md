@@ -1,7 +1,7 @@
-### Hi there :raised_hand_with_fingers_splayed:, I'm Sampada aka Aslan
+### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">, I'm Sampada aka Aslan
 
 
-## I'm an Undergraduate Student and ML enthusiast
+## I'm an Undergraduate Student and ML enthusiast <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="45">
 
 
 ![alt text](https://github.com/Sampada-Nathe/Sampada-Nathe/blob/main/download.gif?raw=true)
